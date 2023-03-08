@@ -1,7 +1,7 @@
-<div id="header" align="center">
-	<h1>Hi there, I'm Sergei</h1> 
+<div id="header" align="left">
+	<h2>Hi there, I'm Sergei</h2> 
   
-  <!--<div id="socials" align="center">
+  <!--<div id="socials" align="left">
     <a href="https://dizkragnet.bandcamp.com">
       <img src="https://img.shields.io/badge/Bandcamp-blue?style=for-the-badge&logo=bandcamp&logoColor=white" alt="Bandcamp"/></a>
     <a href="twitter-url">
@@ -10,13 +10,13 @@
   
 </div>
 
-<div align="center">
+<div align="left">
   <h3>About me</h3> 
-  <p>I’m currently learning 1C, NodeJS, Docker, Docker-Compose, UE4. Sometimes i'm write music <a href="https://dizkragnet.bandcamp.com">Bandcamp</a> and write notes in <a href="https://dzen.ru/diz/">Dzen</a> ... but veeeeryyyy rarely.</p>
+  <p>I’m currently learning 1C, NodeJS, Docker, Docker-Compose, UE4. Sometimes i'm write music <a href="https://dizkragnet.bandcamp.com">Bandcamp</a> and write notes in <a href="https://dzen.ru/diz/">Dzen</a>, but veeeeryyyy rarely.</p>
 </div>
 
-<div align="center">
-  <h3>Languages and tools</h3> 
+<div align="left">
+  <h3>Languages, tools and engine</h3> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" title="dot-net" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 4" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diz-Kragnet&theme=default"/>
+<div align="left">
+<h3>My stat</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diz-Kragnet&theme=default"/>
 </div>
