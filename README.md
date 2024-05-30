@@ -1,12 +1,12 @@
 <div id="header" align="left">
 	<h2>Hi there, I'm Sergei</h2> 
   
-  <div id="socials" align="left">
+ <!-- <div id="socials" align="left">
     <a href="https://dizkragnet.bandcamp.com">
       <img src="https://img.shields.io/badge/Bandcamp-blue?style=for-the-badge&logo=bandcamp&logoColor=white" alt="Bandcamp"/></a>
     <a href="https://dzen.ru/diz">
       <img src="https://img.shields.io/badge/Dzen-blue?style=for-the-badge&logo=dzen&logoColor=white" alt="Dzen"/></a>
-  </div>
+  </div> -->
   
 </div>
 
